@@ -1,0 +1,1897 @@
+new frame
+player Position<rect(10, 250, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 250, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 250, 64, 128)>
+in air:True
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 251, 64, 128)>
+in air:True
+player speed, X/Y: [0, 2.4000000000000004] 
+
+new frame
+player Position<rect(10, 253, 64, 128)>
+in air:True
+player speed, X/Y: [0, 3.2] 
+
+new frame
+player Position<rect(10, 256, 64, 128)>
+in air:True
+player speed, X/Y: [0, 4.0] 
+
+new frame
+player Position<rect(10, 260, 64, 128)>
+in air:True
+player speed, X/Y: [0, 4.8] 
+
+new frame
+player Position<rect(10, 264, 64, 128)>
+in air:True
+player speed, X/Y: [0, 5.6] 
+
+new frame
+player Position<rect(10, 269, 64, 128)>
+in air:True
+player speed, X/Y: [0, 6.3999999999999995] 
+
+new frame
+player Position<rect(10, 275, 64, 128)>
+in air:True
+player speed, X/Y: [0, 7.199999999999999] 
+
+new frame
+player Position<rect(10, 282, 64, 128)>
+in air:True
+player speed, X/Y: [0, 7.999999999999999] 
+
+new frame
+player Position<rect(10, 290, 64, 128)>
+in air:True
+player speed, X/Y: [0, 8.799999999999999] 
+
+new frame
+player Position<rect(10, 298, 64, 128)>
+in air:True
+player speed, X/Y: [0, 9.6] 
+
+new frame
+player Position<rect(10, 307, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.4] 
+
+new frame
+player Position<rect(10, 317, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 327, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 337, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 347, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 357, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 367, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 377, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 387, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 397, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 407, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 417, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 427, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 437, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 447, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 457, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 467, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 477, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 487, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 497, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 507, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 517, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 527, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 537, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 547, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 557, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 567, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 577, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 587, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 597, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 607, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 617, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 627, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 637, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 647, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 657, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 667, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 677, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 687, 64, 128)>
+in air:True
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 697, 64, 128)>
+in air:False
+player speed, X/Y: [0, 10.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:False
+player speed, X/Y: [0, 1.6] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
+in air:True
+player speed, X/Y: [0, 0.8] 
+
+new frame
+player Position<rect(10, 704, 64, 128)>
