@@ -1,4 +1,4 @@
-import pygame, sys
+import pygame, sys, random
 from os import system, name
 
 clock = pygame.time.Clock()
@@ -89,6 +89,9 @@ spider_2_image = pygame.image.load('spider_2.png')
 rock_iamge = pygame.image.load('Textures/Level 1/Block 1.png')
 TILE_SIZE = rock_iamge.get_width()
 rock2_iamge = pygame.image.load('Textures/Level 1/Block 2.png')
+damage_iamge = pygame.image.load('Textures/Level 1/block 3.png')
+end_iamge = pygame.image.load('Textures/Level 1/flag.png')
+silly_cat = pygame.image.load('Textures/Level 1/silly_cat.png')
 
 
 
@@ -128,6 +131,7 @@ def move(rect, movement, tiles):
             rect.top = tile.bottom
             collision_types['top'] = True
     return rect, collision_types
+
 
 
 def drawText(text, size, surface, x, y):
@@ -395,6 +399,7 @@ def game():
     animtimer = 0
     animcounter = 0
 
+    pausetitle = "paused"
     pauseDisplay.set_alpha(200)
     pauseDisplay.fill((50, 50, 50))
 
@@ -426,6 +431,8 @@ def game():
                 else:
                     pygame.draw.rect(gameDisplay, (9, 91, 85), obj_rect)
 
+            endTiles = []
+            damageTiles = []
             tile_rects = []
             y = 0
             for layer in game_map:
@@ -433,10 +440,23 @@ def game():
                 for tile in layer:
                     if tile == '1':
                         gameDisplay.blit(rock_iamge, (x * 64 - scroll[0], y * 64 - scroll[1]))
+                        tile_rects.append(pygame.Rect(x * 64, y * 64, 64, 64))
                     if tile == '2':
                         gameDisplay.blit(rock2_iamge, (x * 64 - scroll[0], y * 64 - scroll[1]))
-                    if tile != '0':
                         tile_rects.append(pygame.Rect(x * 64, y * 64, 64, 64))
+                    if tile == '3':
+                        gameDisplay.blit(damage_iamge, (x * 64 - scroll[0], y * 64 - scroll[1]))
+                        damageTiles.append(pygame.Rect(x * 64, y * 64, 64, 64))
+                    if tile == '4':
+                        gameDisplay.blit(end_iamge, (x * 64 - scroll[0], y * 64 - scroll[1]))
+                        endTiles.append(pygame.Rect(x * 64, y * 64, 64, 64))
+                    if tile == '5':
+                        gameDisplay.blit(silly_cat, (x * 64 - scroll[0], y * 64 - scroll[1]))
+                        if random.random() <=0.5:
+                            endTiles.append(pygame.Rect(x * 64, y * 64, 64, 64))
+                        else:
+                            damageTiles.append(pygame.Rect(x * 64, y * 64, 64, 64))
+
                     x += 1
                 y += 1
 
@@ -464,6 +484,18 @@ def game():
 
             if vertical_momentum > 10:
                 vertical_momentum = 10
+
+            colidingDamageTiles = collision_test(player_rect,damageTiles)
+
+            if len(colidingDamageTiles) > 0:
+                pause = True
+                pausetitle = "ded"
+
+            colidingEndTiles = collision_test(player_rect,endTiles)
+
+            if len(colidingEndTiles) > 0:
+                pause = True
+                pausetitle = "win"
 
             player_rect, collisions = move(player_rect, player_movement, tile_rects)
 
@@ -574,29 +606,33 @@ def game():
                     pygame.quit()
                     sys.exit()
                 if event.type == KEYDOWN:
-                    if event.key == K_ESCAPE:
+                    if event.key == K_ESCAPE and pausetitle == "paused":
                         pause = False
-                    if event.key == K_UP:
+                    if event.key == K_UP and pausetitle == "paused":
                         state = cursorUp(state, menu)
-                    elif event.key == K_DOWN:
+                    elif event.key == K_DOWN and pausetitle == "paused":
                         state = cursorDown(state, menu)
 
                     elif event.key == K_RETURN:
-                        if state == "resume":
+                        if state == "resume" :
                             pause = False
                         elif state == "options":
                             options()
                         elif state == "exit":
-                            pygame.quit()
-                            sys.exit()
+                            running = False
 
             screen.blit(pygame.transform.smoothscale(surf, WINDOW_SIZE), (0, 0))
             screen.blit(pygame.transform.scale(pauseDisplay, WINDOW_SIZE), (0, 0))
 
-            drawText("paused", 50, screen, screenW / 2, 50)
-            drawText("resume", 30, screen, screenW / 2, 200)
-            drawText("options", 30, screen, screenW / 2, 300)
-            drawText("exit", 30, screen, screenW / 2, 400)
+
+            drawText(pausetitle, 50, screen, screenW / 2, 50)
+            if pausetitle == "paused":
+                drawText("resume", 30, screen, screenW / 2, 200)
+                drawText("options", 30, screen, screenW / 2, 300)
+                drawText("exit", 30, screen, screenW / 2, 400)
+            else:
+                state = "exit"
+                drawText("exit", 30, screen, screenW / 2, 200)
 
             drawCursor()
 
